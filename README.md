@@ -21,7 +21,7 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 1.  - Nível Médio
 2. - Nível Médio
-3. - Nível Difícil
+3. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)- Nível Difícil
 4. - Nível Difícil
 
 
@@ -39,9 +39,9 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 
 
-### ✅ Accepted 
+### ✅ Accepted Median of Two Sorted Arrays
 
-
+![Median of Two Sorted Arrays](img/4.mediana.png)
 
 ## ✅ Accepted 
 
@@ -69,13 +69,13 @@ Python 3 instalado no sistema.
 
 Clone o Repositório
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2025/Grafos1_Nic_Sam.git
+git clone https://github.com/projeto-de-algoritmos-2025/DC_Nicollas_e_Samuel.git
 ```
 <br>
 
 Navegue até a pasta principal
 ```bash
-cd seuRepositorio/Grafos1_Nic_Sam
+cd seuRepositorio/DC_Nicollas_e_Samuel
 ```
 <br>
 
