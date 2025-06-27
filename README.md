@@ -29,9 +29,9 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 ## 📸 Screenshots
 
-### ✅ Accepted  
+### ✅ Accepted Pow (DIVIDIR E CONQUISTAR)
 
-
+![Pow](img/50-pow.png)
 
 <br>
 
