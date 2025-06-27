@@ -53,7 +53,7 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 Neste vídeo, apresentamos um resumo completo do trabalho desenvolvido, abordando os principais pontos discutidos ao longo do projeto.
 
-[Assista no YouTube]()
+[Assista no YouTube](https://youtu.be/xBe4Fc-8cew)
 
 ---
 ## ⚙️ Instalação
