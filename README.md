@@ -20,9 +20,9 @@
 A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas de complexidade média e duas de maior dificuldade.
 
 1. [POW](https://leetcode.com/problems/powx-n/)- Nível Médio
-2.  - Nível Médio
+2. [convert sorted](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/?envType=problem-list-v2&envId=divide-and-conquer) - Nível Médio
 3. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)- Nível Difícil
-4. - Nível Difícil
+4. [marger k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) - Nível Difícil
 
 
 ---
@@ -35,18 +35,18 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 <br>
 
-### ✅ Accepted 
+### ✅ Accepted convert sorted
 
-
+![convert](img/convert.png)
 
 ### ✅ Accepted Median of Two Sorted Arrays
 
 ![Median of Two Sorted Arrays](img/4.mediana.png)
 
-## ✅ Accepted 
+## ✅ Accepted marger k sorted lists
 
 
----
+![marger](img/marger.png)
 
 
 ## 🎥 Vídeo de Apresentação
